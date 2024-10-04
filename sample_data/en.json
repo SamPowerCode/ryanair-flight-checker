@@ -1,0 +1,32 @@
+[
+    {
+      "iataCode": "MJV",
+      "divertedIataCode": "RMU",
+      "title": null,
+      "dateFrom": "2019-01-15T00:00:00Z",
+      "dateTo": "2100-01-01T00:00:00Z",
+      "messageFrom": "Flights to and from Murcia will be operated from Murcia Corvera International Airport. If you wish to continue your search using this airport please click 'OK'",
+      "messageTo": "Flights to and from Murcia will be operated from Murcia Corvera International Airport. If you wish to continue your search using this airport please click 'OK'",
+      "skipBooking": true
+    },
+    {
+      "iataCode": "SXF",
+      "divertedIataCode": "SXF",
+      "title": "Ryanair will fly to/from Berlin Airport from 25th OCT 2020",
+      "dateFrom": "2020-10-25T00:00:00Z",
+      "dateTo": "2036-12-30T23:00:00Z",
+      "messageFrom": "Berlin Schonefeld airport will be renamed Berlin Brandenburg BER from 25th OCT 20. Please search for routes to/from BER for travel after 25th OCT 20.",
+      "messageTo": "Berlin Schonefeld airport will be renamed Berlin Brandenburg BER from 25th OCT 20. Please search for routes to/from BER for travel after 25th OCT 20.",
+      "skipBooking": false
+    },
+    {
+      "iataCode": "TXL",
+      "divertedIataCode": "TXL",
+      "title": "Ryanair will fly to/from Berlin Airport from 25th OCT 2020",
+      "dateFrom": "2020-10-25T00:00:00Z",
+      "dateTo": "2036-12-30T23:00:00Z",
+      "messageFrom": "Flights will move from Berlin Tegel to Berlin Brandenburg BER airport from 04 NOV 2020. Please search for routes to/from BER for travel from 04 NOV 20.",
+      "messageTo": "Flights will move from Berlin Tegel to Berlin Brandenburg BER airport from 04 NOV 2020. Please search for routes to/from BER for travel from 04 NOV 20.",
+      "skipBooking": false
+    }
+  ]

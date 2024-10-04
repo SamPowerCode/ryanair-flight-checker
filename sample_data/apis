@@ -1,0 +1,16 @@
+
+
+https://www.ryanair.com/api/views/locate/3/airports/en/active
+- active_3.json
+
+https://www.ryanair.com/api/views/locate/3/closures/en
+ - en.json
+
+https://www.ryanair.com/api/views/locate/5/airports/en/active
+- active_5.json
+
+https://www.ryanair.com/api/views/locate/searchWidget/routes/en/airport/DUB
+- DUB.json
+
+https://www.ryanair.com/ryanair3/data/trip-planner/popular-attractions.en-ie.DUB.json
+- popular-attractions.en-ie.DUB.json
