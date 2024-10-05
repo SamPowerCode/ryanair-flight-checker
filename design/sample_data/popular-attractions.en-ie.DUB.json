@@ -1,0 +1,306 @@
+[
+    {
+      "id": "petra",
+      "name": "Petra, Jordan",
+      "possibleDestinations": []
+    },
+    {
+      "id": "acropolis",
+      "name": "The Acropolis of Athens, Greece",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "ATH"
+        }
+      ]
+    },
+    {
+      "id": "sagrada-familia",
+      "name": "Sagrada Familia, Spain (Barcelona)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "BCN"
+        },
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "REU"
+        }
+      ]
+    },
+    {
+      "id": "alexander-platz",
+      "name": "Alexander Platz, Germany (Berlin)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "BER"
+        }
+      ]
+    },
+    {
+      "id": "berlin-wall-memorial",
+      "name": "Berlin Wall Memorial, Germany",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "BER"
+        }
+      ]
+    },
+    {
+      "id": "st-michel-castle",
+      "name": "St Michel castle, France (Normandy)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "NTE"
+        }
+      ]
+    },
+    {
+      "id": "buda-castle-castle-hill",
+      "name": "Buda Castle and castle hill, Hungary (Budapest)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "BUD"
+        }
+      ]
+    },
+    {
+      "id": "cliffs-moher-visitor",
+      "name": "Cliffs of Moher Visitor Experience, West Ireland (Munster)",
+      "possibleDestinations": []
+    },
+    {
+      "id": "guinness-storehouse",
+      "name": "Guinness Storehouse, Ireland (Dublin)",
+      "possibleDestinations": []
+    },
+    {
+      "id": "dubrovnik-ramparts",
+      "name": "Dubrovnik ramparts, Croatia",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "DBV"
+        }
+      ]
+    },
+    {
+      "id": "saint-bavos-cathedral",
+      "name": "Saint Bavo's Cathedral, Belgium (Ghent)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "BRU"
+        },
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "CRL"
+        }
+      ]
+    },
+    {
+      "id": "saint-nicholas-church",
+      "name": "Saint Nicholas Church, Belgium (Ghent)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "BRU"
+        },
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "CRL"
+        }
+      ]
+    },
+    {
+      "id": "tower-of-london",
+      "name": "Tower of London, England",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "LGW"
+        },
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "LTN"
+        },
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "SEN"
+        },
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "STN"
+        },
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "BRS"
+        }
+      ]
+    },
+    {
+      "id": "stonehenge",
+      "name": "Stonehenge, England (London)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "LGW"
+        },
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "LTN"
+        },
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "SEN"
+        },
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "STN"
+        },
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "BRS"
+        }
+      ]
+    },
+    {
+      "id": "acueducto-de-segovia",
+      "name": "Acueducto de Segovia, Spain",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "MAD"
+        }
+      ]
+    },
+    {
+      "id": "alcazar-de-toledo",
+      "name": "Alcázar de Toledo, Spain",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "MAD"
+        }
+      ]
+    },
+    {
+      "id": "plaza-mayor",
+      "name": "Plaza Mayor, Spain (Madrid)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "MAD"
+        }
+      ]
+    },
+    {
+      "id": "bahia-palace",
+      "name": "Bahia Palace, Morocoo (Marrakesh)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "RAK"
+        }
+      ]
+    },
+    {
+      "id": "jardins-majorelle",
+      "name": "Jardins Majorelle, Morocoo (Marrakesh)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "RAK"
+        }
+      ]
+    },
+    {
+      "id": "amalfi-coast",
+      "name": "Amalfi Coast, Italy (Salerno)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "NAP"
+        }
+      ]
+    },
+    {
+      "id": "disneyland-france",
+      "name": "Disneyland, France (Paris)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "BVA"
+        }
+      ]
+    },
+    {
+      "id": "eiffel-tower",
+      "name": "Eiffel Tower, France (Paris)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "BVA"
+        }
+      ]
+    },
+    {
+      "id": "palace-of-versailles",
+      "name": "Palace of Versailles, France",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "BVA"
+        }
+      ]
+    },
+    {
+      "id": "charles-bridge",
+      "name": "Charles Bridge, Czech Republic (Prague)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "PRG"
+        }
+      ]
+    },
+    {
+      "id": "roman-colosseum",
+      "name": "The Roman Colosseum, Italy (Rome)",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "CIA"
+        }
+      ]
+    },
+    {
+      "id": "camino-de-santiago",
+      "name": "Camino de Santiago, Spain ",
+      "possibleDestinations": []
+    },
+    {
+      "id": "hercules-caves",
+      "name": "Hercules Caves, Morocoo (Tanger)",
+      "possibleDestinations": []
+    },
+    {
+      "id": "blue-jewel-of-morocco",
+      "name": "Blue Jewel of Morocco , Morocco (Chefchaouen)",
+      "possibleDestinations": []
+    },
+    {
+      "id": "opera-vienna",
+      "name": "Opera Vienna, Austria",
+      "possibleDestinations": [
+        {
+          "distanceInKilometers": 0,
+          "iataCode": "VIE"
+        }
+      ]
+    }
+  ]
